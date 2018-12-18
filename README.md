@@ -1,1 +1,1 @@
-Project is on BitBucket Account: https://bitbucket.org/LampChat/lampchat/
+Project is on BitBucket Account: https://bitbucket.org/suyashbhatt/lampchat/
