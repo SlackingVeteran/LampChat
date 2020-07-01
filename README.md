@@ -1,1 +1,1 @@
-Project is on BitBucket Account: https://bitbucket.org/wssyncmldm/lampchat/
+Project is on BitBucket Account: https://bitbucket.org/SlackingVeteran/lampchat/
